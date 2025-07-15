@@ -17,19 +17,19 @@ Customer churn is a major concern for subscription-based businesses. Reducing ch
 - **CSV Dataset**: Provided by the telecom company
 
 ## 📁 Project Structure
-customer-churn-prediction/
-├── data/
-│ └── churn_data.csv
-├── cleaned_data/
-│ └── churn_cleaned.csv
-├── notebooks/
-│ └── churn_modeling.ipynb
-├── dashboard/
-│ └── churn_dashboard.twbx
-├── images/
-│ └── churn_dashboard_screenshot.png
-├── README.md
-└── requirements.txt
+customer-churn-prediction
+-├── data/
+-│ └── churn_data.csv
+-├── cleaned_data/
+-│ └── churn_cleaned.csv
+-├── notebooks/
+-│ └── churn_modeling.ipynb
+-├── dashboard/
+-│ └── churn_dashboard.twbx
+-├── images/
+-│ └── churn_dashboard_screenshot.png
+-├── README.md
+-└── requirements.txt
 
 ## Python Code
 <a href="https://github.com/Shreyathudi-217/Customer-Churn-Prediction/blob/main/Customer%20Churn%20Prediction%20.ipynb">python code
